@@ -96,7 +96,7 @@ export default function Design1() {
           <div className="od"></div><div className="od" style={{marginLeft:'-0.8rem'}}></div><div className="od" style={{marginLeft:'-0.8rem'}}></div>
           <div className="or"></div>
         </div>
-        <p className="subtitle">Ensemble Vocal Ottavio</p>
+        <p className="subtitle">Ensemble Vocal Ottavio (EVO)</p>
         <p className="tagline">Huit voix. Une harmonie.</p>
       </section>
 
@@ -116,8 +116,8 @@ export default function Design1() {
       <section className="section">
         <p className="section-label">Prochain concert</p>
         <div className="concert-card">
-          <p className="concert-date">Vendredi&nbsp;26mars&nbsp;2027 · 15h</p>
-          <h2 className="concert-title"><strong>Requiem&nbsp;für&nbsp;Mignon</strong><span style={{fontSize:'0.66em'}}> de&nbsp;Schumann</span><br /><strong>Stabat&nbsp;Mater</strong><span style={{fontSize:'0.66em'}}> en&nbsp;sol&nbsp;mineur&nbsp;D175 de&nbsp;Schubert<br /> avec&nbsp;le&nbsp;DS&nbsp;Quartet direction:&nbsp;Luc&nbsp;Baghdassarian</span></h2>
+          <p className="concert-date">Vendredi&nbsp;26&nbsp;mars&nbsp;2027 · 15h</p>
+          <h2 className="concert-title"><strong>Requiem&nbsp;für&nbsp;Mignon</strong><span style={{fontSize:'0.66em'}}> de&nbsp;Schumann</span><br /><strong>Stabat&nbsp;Mater</strong><span style={{fontSize:'0.66em'}}> en&nbsp;sol&nbsp;mineur&nbsp;D175 de&nbsp;Schubert<br />avec&nbsp;le&nbsp;DS&nbsp;Quartet<br />direction:&nbsp;Luc&nbsp;Baghdassarian</span></h2>
           <p className="concert-venue">Temple&nbsp;de&nbsp;Renens</p>
         </div>
       </section>
@@ -138,7 +138,7 @@ export default function Design1() {
         <p className="section-label">Concerts récents</p>
         <div className="concert-card">
           <p className="concert-date">Dimanche&nbsp;7&nbsp;Juin&nbsp;2026 · 19h00</p>
-          <h2 className="concert-title"><strong>Christus</strong><span style={{fontSize:'0.66em'}}> de&nbsp;Mendelssohn</span><br /><span style={{fontSize:'0.66em'}}> avec&nbsp;le&nbsp;DS&nbsp;Quartet direction:&nbsp;Luc&nbsp;Baghdassarian</span></h2>
+          <h2 className="concert-title"><strong>Christus</strong><span style={{fontSize:'0.66em'}}> de&nbsp;Mendelssohn</span><br /><span style={{fontSize:'0.66em'}}>avec&nbsp;le&nbsp;DS&nbsp;Quartet<br />direction:&nbsp;Luc&nbsp;Baghdassarian</span></h2>
           <p className="concert-venue">Temple d'Yverdon-les-Bains</p>
         </div>
       </section>
@@ -152,8 +152,8 @@ export default function Design1() {
       </section>
 
       <footer className="footer">
-        <p className="footer-text">© 2026 Ensemble Vocal Ottavio</p>
+        <p className="footer-text">© 2026 EVO</p>
       </footer>
     </>
   );
-}
+        }
