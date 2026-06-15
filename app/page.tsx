@@ -96,7 +96,7 @@ export default function Design1() {
           <div className="od"></div><div className="od" style={{marginLeft:'-0.8rem'}}></div><div className="od" style={{marginLeft:'-0.8rem'}}></div>
           <div className="or"></div>
         </div>
-        <p className="subtitle">Ensemble Vocal Ottavio (EVO)</p>
+        <p className="subtitle">Ensemble Vocal Ottavio</p>
         <p className="tagline">Huit voix. Une harmonie.</p>
       </section>
 
