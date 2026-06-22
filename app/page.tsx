@@ -141,6 +141,11 @@ export default function Design1() {
           <p className="concert-venue">Temple d'Yverdon-les-Bains</p>
           <h2 className="concert-title"><strong>Christus</strong><span style={{fontSize:'0.66em'}}> de&nbsp;Mendelssohn</span><br /><span style={{fontSize:'0.66em'}}>avec&nbsp;le&nbsp;DS&nbsp;Quartet<br />direction:&nbsp;Luc&nbsp;Baghdassarian</span></h2>
         </div>
+        <div className="concert-card">
+          <p className="concert-date">Sa&nbsp;4&nbsp;Avril&nbsp;2026 · 20h</p>
+          <p className="concert-venue">Temple Tour-de-Peilz</p>
+          <h2 className="concert-title"><strong>Stabat&nbsp;Mater</strong><span style={{fontSize:'0.66em'}}> de&nbsp;Poulenc</span><br />direction/piano:&nbsp;Luc&nbsp;Baghdassarian</span></h2>
+        </div>
       </section>
 
       <section className="section">
